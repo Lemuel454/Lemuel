@@ -1,0 +1,6 @@
+nombre = input("ingrese su nombre: ")
+carrera = input("ingrese su carrera: ")
+ciclo = input ("ingrese su ciclo actual: ")
+print ("su nombre es: ",nombre)
+print ("su carrera es: ",carrera)
+print ("su ciclo actual es: ",ciclo)
