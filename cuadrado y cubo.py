@@ -1,0 +1,5 @@
+numero1= int(input("ingrese numero: "))
+cuadrado= (numero1)*(numero1)
+cubo= (numero1)*(numero1)*(numero1)
+print ("el cuadrado de este numero es: ",cuadrado)
+print ("el cubo de este numero es: ",cubo)
